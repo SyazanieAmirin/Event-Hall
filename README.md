@@ -1,16 +1,14 @@
-# eventhall
 
-A new Flutter project.
+# For Assignment
 
-## Getting Started
+  colorScheme: ColorScheme.fromSeed
+  seedColor: Colors.amber, secondary: Colors.amberAccent)
+  state for dates: _MyHomePageState
 
-This project is a starting point for a Flutter application.
+## CARA NAK COPY/DOWNLOAD
+### Kalau x reti guna git
+![enter image description here](https://i.ibb.co/xDkPvG9/1.png)
+![enter image description here](https://i.ibb.co/qNbPrTj/2.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Kalau Reti Guna Git
+Please fork je no need new branch
